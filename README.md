@@ -9,21 +9,21 @@
 
 * Dari Hasil diatas yang sesuai dengan yang ada di web, percobaan membuat pengembangan dengan merekamnya menjadi sebuah tabel lewat code
 
-![gambar 1](gambar1.png)
+![gambar1](https://github.com/harithhakim02/mikro/assets/76531834/a8f1ccc5-acad-4f44-bc06-4d04cd36d1a6)
 
 ---
 * Didapatkan hasil sebagai berikut dengan jumlah data yang ada sebanyak **900** dan terbagi menjadi **3 buah kolom**
 
 > Set Point Respond
 
-![gambar 2](gambar2.png)
+![gambar2](https://github.com/harithhakim02/mikro/assets/76531834/f57dbf1f-7475-46d7-b70e-463147866e73)
 
 ---
 * Dari grafik diatas dapat dilihat bahwa kenaikan dari **titik set point** yang ditentukan juga membuat temperature meningkat namun tentus saja kenaikan dari temperature tidak bisa begitu derastis nilai set point. Namun di detik ke **300** temperature terlalu tinggi namun ini juga masih wajar karena di detik berikutnya temperature ikut turun. kemungkinan diakibatkan temperature yang baru diturunkan begitu menyentuh **set point**.
 
 >Temperature Comparison
 
-![gambar 3](gambar3.png)
+![gambar3](https://github.com/harithhakim02/mikro/assets/76531834/8cc9fd81-b7b8-4e8d-91a2-f87ffebbaf17)
 
 ---
 
@@ -31,7 +31,7 @@
   
 > Heater Output
 
-![gambar 4](gambar4.png)
+![gambar4](https://github.com/harithhakim02/mikro/assets/76531834/567fbf33-f984-477a-bb1a-54fefe1595dd)
 
 ---
 
@@ -39,6 +39,6 @@
 
 >Grafik Kesalahan Komulatif 
 
-![gambar 5](gambar5.png)
+![gambar5](https://github.com/harithhakim02/mikro/assets/76531834/9654bc4e-f3a5-4eae-886b-4a200ac64b1b)
 
-![gambar 6](gambar6.png)
+![gambar6](https://github.com/harithhakim02/mikro/assets/76531834/c3161c01-93d1-469c-b678-557bae6ec2da)
